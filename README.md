@@ -1,6 +1,6 @@
 # <p align="center">👋 Hi, I'm Muhammad Umer!<p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Data+Analyst+and+AI+Specialist;End+To+End+Project+Solutions;Microsoft+PowerBI;+Microsoft+Excel;Proficient+in+Python;Streamlit+and+Flask;Machine+Learning+Engineer;Deep+Learning+Engineer;Always+learning+new+tech!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Data+Analyst+and+AI+Specialist;Provide+End+To+End+Projects+Solution;Microsoft+PowerBI;+Microsoft+Excel;Proficient+in+Python;Streamlit+and+Flask;Machine+Learning+Engineer;Deep+Learning+Engineer;Always+learning+new+tech!">
 </p>
 
 # <p align="center">About Me!<p>
@@ -25,8 +25,13 @@ I am a Results-driven data professional with a strong foundation in Data Analysi
 - New advancements in AI, Data Science Techniques and Deep learning frameworks
 
 
-# How to reach me:
+# <p align="center">Plans For Future:<p>
+- Build Strong Foundation in Deep Learning
+- Learn NLP to extract info from Textual Data
+- Work on Audio and Video Datasets
 
+- 
+# <p align="center">How to reach me:<p>
 - Email: umernadeem241@gmail.com
 - LinkedIn: https://www.linkedin.com/in/muhammad-umer-881466293/
 
