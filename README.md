@@ -1,6 +1,6 @@
-# <p align="center">👋 Hi, I'm Muhammad Umer!<p>
+# <p align="center">Hi, I'm Muhammad Umer 👋 <p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Data+Analyst+and+AI+Specialist;Provide+End+To+End+Projects+Solution;Microsoft+PowerBI;+Microsoft+Excel;Proficient+in+Python;Streamlit+and+Flask;Machine+Learning+Engineer;Deep+Learning+Engineer;Always+learning+new+tech!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Data+Analyst+and+AI+Specialist;End+To+End+Projects+Solution;Microsoft+PowerBI;+Microsoft+Excel;Proficient+in+Python;Streamlit+and+Flask;Machine+Learning+Engineer;Deep+Learning+Engineer;Always+learning+new+tech!">
 </p>
 
 # <p align="center">About Me!<p>
@@ -9,29 +9,28 @@ I am a Results-driven data professional with a strong foundation in Data Analysi
 <p>
 
 #  <p align="center">My Highlighted Skills:<p>
-- Data Analytics
-- Machine Learning
-- Deep Learning
-- Data Visualization
-- Statistical Analysis
-- End-to-End Project Solutions in Data Analytics
-- Deal with technical and Non-Technical Professionals 
+- 📈 Data Analytics
+- 🤖 Machine Learning
+- 👨‍💻 Deep Learning
+- 📊 Data Visualization
+- 📋 Statistical Analysis
+- :open_file_folder: End-to-End Project Solutions in Data Analytics
+- 🤝 Deal with technical and Non-Technical Professionals 
 
 
 # <p align="center">My Current Contributions:<p>
-- Data Analyst & AI Specialist @SevenBusinessSolutions
-- I'm collaborating with HCI Ph.D. scholars to enhance human-computer interactions through data-driven insights
+- :briefcase: Data Analyst & AI Specialist @SevenBusinessSolutions
+- 🧑🏻‍💻 I'm collaborating with HCI Ph.D. scholars to enhance human-computer interactions through data-driven insights
 - Learning and Assisting Data Science Phd.Scholar to create a Deep Learning Library 
-- New advancements in AI, Data Science Techniques and Deep learning frameworks
+- :mag_right: New advancements in AI, Data Science Techniques and Deep learning frameworks
 
 
-# <p align="center">Plans For Future:<p>
+# <p align="center">:dart: Plans For Future:<p>
 - Build Strong Foundation in Deep Learning
 - Learn NLP to extract info from Textual Data
 - Work on Audio and Video Datasets
 
-- 
-# <p align="center">How to reach me:<p>
-- Email: umernadeem241@gmail.com
+# <p align="center"> 💬 How to reach me:<p>
+- :e-mail: Email: umernadeem241@gmail.com
 - LinkedIn: https://www.linkedin.com/in/muhammad-umer-881466293/
 
