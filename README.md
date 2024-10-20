@@ -32,5 +32,5 @@ I am a Results-driven data professional with a strong foundation in Data Analysi
 
 # <p align="center"> 💬 How to reach me:<p>
 - :e-mail: Email: umernadeem241@gmail.com
-- LinkedIn: https://www.linkedin.com/in/muhammad-umer-881466293/
+- 🪪 LinkedIn: https://www.linkedin.com/in/muhammad-umer-881466293/
 
