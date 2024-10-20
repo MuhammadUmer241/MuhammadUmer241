@@ -21,7 +21,7 @@ I am a Results-driven data professional with a strong foundation in Data Analysi
 # <p align="center">My Current Contributions:<p>
 - :briefcase: Data Analyst & AI Specialist @SevenBusinessSolutions
 - 🧑🏻‍💻 I'm collaborating with HCI Ph.D. scholars to enhance human-computer interactions through data-driven insights
-- Learning and Assisting Data Science Phd.Scholar to create a Deep Learning Library 
+- 📖 Learning and Assisting Data Science Phd.Scholar to create a Deep Learning Library 
 - :mag_right: New advancements in AI, Data Science Techniques and Deep learning frameworks
 
 
